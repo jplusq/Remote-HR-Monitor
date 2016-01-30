@@ -1,0 +1,13 @@
+{
+  "name": "HRAlarm",
+  "version": "0.0.0",
+  "description": "HRAlarm",
+  "main": "server.js",
+  "author": {
+    "name": "Qin",
+    "email": ""
+  },
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.10"
+  }
+}
